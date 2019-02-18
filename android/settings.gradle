@@ -1,0 +1,3 @@
+rootProject.name = 'TestingPankajApp'
+
+include ':app'
